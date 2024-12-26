@@ -28,6 +28,7 @@ h1 {
   font-size: 2rem;
   margin-bottom: 15px;
   color: #feffff;
+  padding-bottom:15px;
 }
 
 .intro {
@@ -39,18 +40,19 @@ h1 {
 .description {
   font-size: 1rem;
   margin-bottom: 20px;
-  align-items: left;
+  text-align: left;
 }
 
 .content p {
   margin-bottom: 15px;
   font-size: 1rem;
-  justify-content:left;
+  text-align:left;
 }
 .photo{
   height:190px;
   width:280px;
   justify-content:center;
+  padding:20px;
 }
 
 @media (max-width: 768px) {
